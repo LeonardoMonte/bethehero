@@ -1,2 +1,2 @@
 # bethehero
-Website and app of a donation system for NGOs.
+Website and app made using react of a donation system for NGOs.
